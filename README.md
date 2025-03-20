@@ -140,7 +140,7 @@
 ✅ A communication tool that allows her to send navigation guidance.
 ✅ Easy integration with WhatsApp or SMS for quick alerts.
 
-📌 Key Insight: Priya needs real-time tracking, instant SOS alerts, and easy remote communication to ensure the safety of her loved one without disrupting her daily routine.
+📌 Key Insight: Priya needs real-time tracking, instant SOS alerts, and easy remote communication to ensure the safety of her loved one without disrupting her daily routine. 
 
 
 ### User Research Insights & Survey Summary
