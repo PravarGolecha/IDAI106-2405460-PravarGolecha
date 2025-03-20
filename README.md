@@ -117,30 +117,45 @@
 
  *Key Insight: Alex needs accurate real-time tracking, emergency alerts, and quick communication tools to efficiently locate and rescue lost individuals.*
 
-📌 User Persona 3: Priya (Caregiver)
-👩‍⚕️ Name: Priya
-🎂 Age: 40
-🏠 Background: Works full-time, takes care of her elderly mother who has mild memory loss
-🛠️ Tech Skills: Moderate (Uses smartphones daily but prefers simple apps)
+#### *User Persona 3: Priya (Caregiver)*
 
-🔍 Behavior & Challenges
-✔️ Checks in with her mother frequently to ensure she is safe.
-✔️ Prefers to receive automatic location updates rather than calling repeatedly.
-✔️ Gets worried when she doesn’t hear back from her mother for too long.
-✔️ Needs a way to guide her mother remotely if she gets lost.
+*- Name: Priya*
 
-🚨 Pain Points
-❌ Feels stressed when she can’t immediately check her mother’s location.
-❌ Existing apps don’t provide real-time caregiver tracking.
-❌ Wants a non-intrusive way to ensure her mother’s safety.
+*- Age: 35*
 
-🎯 Needs & Goals
-✅ Periodic location updates to ensure her mother is safe.
-✅ An SOS feature that alerts her immediately when needed.
-✅ A communication tool that allows her to send navigation guidance.
-✅ Easy integration with WhatsApp or SMS for quick alerts.
+*- Background: Works full-time, takes care of her elderly mother who has mild memory loss*
 
-📌 Key Insight: Priya needs real-time tracking, instant SOS alerts, and easy remote communication to ensure the safety of her loved one without disrupting her daily routine. 
+*- Tech Skills: Moderate (Uses smartphones daily but prefers simple apps)*
+
+#### *Behavior & Challenges*
+
+*- Checks in with her mother frequently to ensure she is safe.*
+
+*- Prefers to receive automatic location updates rather than calling repeatedly.*
+
+*- Gets worried when she doesn’t hear back from her mother for too long.*
+
+*- Needs a way to guide her mother remotely if she gets lost.*
+
+#### *Pain Points*
+
+*- Feels stressed when she can’t immediately check her mother’s location.*
+
+*- Existing apps don’t provide real-time caregiver tracking.*
+
+*- Wants a non-intrusive way to ensure her mother’s safety.*
+
+#### *Needs & Goals*
+
+*- Periodic location updates to ensure her mother is safe.*
+
+*- An SOS feature that alerts her immediately when needed.*
+
+*- A communication tool that allows her to send navigation guidance.*
+
+*- Easy integration with WhatsApp or SMS for quick alerts.*
+
+*Key Insight: Priya needs real-time tracking, instant SOS alerts, and easy remote communication to ensure the safety of her loved one without disrupting her daily routine.*
 
 
 ### User Research Insights & Survey Summary
